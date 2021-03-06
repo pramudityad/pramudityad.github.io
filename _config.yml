@@ -193,6 +193,11 @@ markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 analytics:
   provider               : google-gtag # false (default), "google", "google-universal", "google-gtag", "custom"
   google:
-    tracking_id          :  UA-191468779-1
+    tracking_id          : UA-191468779-1
     anonymize_ip         : false # true, false (default)
 
+# SEO Related
+google_site_verification : HL76SAqnJ7RjYEvzX1PHzds7pWr9p4IcHSc_Y3SZ028
+bing_site_verification   :
+yandex_site_verification :
+naver_site_verification  :
