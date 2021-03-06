@@ -14,12 +14,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: pramuditya's Blog
+title_separator : "-" 
 email: pramudityad@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-twitter_username: username
+description: Write mostly about blog, books, tech or anything around 
+# twitter_username: username
 github_username: pramudityad
 minimal_mistakes_skin: contrast
 search: true
@@ -42,6 +40,7 @@ include:
 # limit_posts         : 0
 future              : false
 # unpublished         : false
+words_per_minute : 200
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -189,4 +188,11 @@ keep_files:
   - .svn
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"    
+
+# Analytics
+analytics:
+  provider               : google # false (default), "google", "google-universal", "google-gtag", "custom"
+  google:
+    tracking_id          : 264570694
+    anonymize_ip         : # true, false (default)
 
