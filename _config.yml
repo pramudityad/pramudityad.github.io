@@ -16,12 +16,15 @@
 title: pramuditya's Blog
 title_separator : "-" 
 email: pramudityad@gmail.com
-description: Write mostly about blog, books, tech or anything around 
+description: &description "Write mostly about blog, books, tech or anything around."
 # twitter_username: username
 github_username: pramudityad
 minimal_mistakes_skin: contrast
 search: true
 logo: "/assets/images/keyboard_key_d.png"
+url : https://pramudityad.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl : "/" # the subpath of your site, e.g. "/blog"
+# repository               : "mmistakes/minimal-mistakes"
 
 # Build settings
 markdown: kramdown
