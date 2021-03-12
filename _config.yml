@@ -23,8 +23,7 @@ minimal_mistakes_skin: contrast
 search: true
 logo: "/assets/images/keyboard_key_d.png"
 url : https://pramudityad.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl : "/" # the subpath of your site, e.g. "/blog"
-# repository               : "mmistakes/minimal-mistakes"
+
 
 # Build settings
 markdown: kramdown
@@ -34,16 +33,10 @@ permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 timezone: Asia/Bangkok # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+words_per_minute : 200
 
 include:
   - _pages
-
-# Filtering Content
-# show_drafts         : null
-# limit_posts         : 0
-future              : false
-# unpublished         : false
-words_per_minute : 200
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
