@@ -1,5 +1,5 @@
 ---
-title: "Analytics London Crime dataset"
+title: "Analysis London Crime dataset"
 categories:
   - Tech
 tags:
