@@ -1,0 +1,96 @@
+{
+  "main": {
+    "id": "26a2a050bace2638",
+    "type": "split",
+    "children": [
+      {
+        "id": "45ae5fdb991add5d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "_posts/travel/2021-05-17-Sumatera Barat.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "18fa1ab9718ec8d6",
+    "type": "split",
+    "children": [
+      {
+        "id": "3ed6352582af1d65",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "249f63a1a3d12d00",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "ea49d9bbe80eb8f3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b6c7cb9b73e4831d",
+    "type": "split",
+    "children": [
+      {
+        "id": "a95c4cdf92384624",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0294d8a2c69b5e68",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_posts/travel/2021-05-17-Sumatera Barat.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "45ae5fdb991add5d",
+  "lastOpenFiles": [
+    "_posts/travel/2021-05-17-Sumatera Barat.md",
+    "_posts/travel/Untitled.md",
+    "_posts/tech/2021-03-06-unblock-reddit-ios.md",
+    "_posts/tech/2021-04-12-bank-data-classification.md"
+  ]
+}
