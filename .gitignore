@@ -2,6 +2,9 @@
 *~
 *.sw[p_]
 
+# Obsidian
+.obsidian
+
 # Sublime Text
 *.sublime-project
 *.sublime-workspace
