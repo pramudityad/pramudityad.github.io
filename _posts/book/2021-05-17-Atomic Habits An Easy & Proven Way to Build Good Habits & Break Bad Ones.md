@@ -1,11 +1,11 @@
 ---
-title: "Libby App"
+title: "Atomic Habits An Easy & Proven Way to Build Good Habits & Break Bad Ones"
 # date: 2016-10-24
 categories:
   - Books
 tags:
-  - libby
-  - perpusnas
+  - review book
+  - James Clear
 ---
 
 genre  : [[Nonfiction]] [[Productivity]] [[Book]]
