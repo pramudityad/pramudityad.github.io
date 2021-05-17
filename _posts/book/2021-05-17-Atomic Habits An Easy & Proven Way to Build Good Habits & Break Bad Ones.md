@@ -8,10 +8,6 @@ tags:
   - James Clear
 ---
 
-genre  : [[Nonfiction]] [[Productivity]] [[Book]]
-rating  : 3.9/5
-
----
 ### ⛰ What It's About
 This book talking about habbit, behaviour and everything in between
 
