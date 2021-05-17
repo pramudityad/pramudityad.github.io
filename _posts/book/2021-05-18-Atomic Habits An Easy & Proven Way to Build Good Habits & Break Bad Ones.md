@@ -1,6 +1,5 @@
 ---
 title: "Atomic Habits An Easy & Proven Way to Build Good Habits & Break Bad Ones"
-# date: 2016-10-24
 categories:
   - Books
 tags:
