@@ -6,6 +6,7 @@ tags:
   - review book
   - James Clear
 ---
+[![](https://m.media-amazon.com/images/I/919GZveZJYL._SY160.jpg)](https://www.amazon.com/dp/B07D23CFGR)
 
 ### ⛰ What It's About
 This book talking about habbit, behaviour and everything in between
@@ -25,8 +26,6 @@ I would say, a person that cannot go a day without checking (get things done). o
 >Fix the inputs and the outputs will fix themselves.
 
 
-
-[![](https://m.media-amazon.com/images/I/919GZveZJYL._SY160.jpg)](https://www.amazon.com/dp/B07D23CFGR)
 
 Your Kindle Notes For:
 
