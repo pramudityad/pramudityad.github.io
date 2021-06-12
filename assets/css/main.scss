@@ -4,14 +4,17 @@
 
 @charset "utf-8";
 
-$link-color: black;
-$serif              : "PT Serif", Georgia, Times, serif;
-$sans-serif-narrow  : "PT Sans Narrow", -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+$link-color: rgb(3, 24, 29);
+// $serif              : "PT Serif", Georgia, Times, serif;
+// $sans-serif-narrow  : "PT Sans Narrow", -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+$serif      : Georgia, Times, serif;
+$sans-serif-narrow : -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+$monospace  : Monaco, Consolas, "Lucida Console", monospace;
 
 $global-font-family : $serif;
 $header-font-family : $sans-serif-narrow;
-$primary-color : green;
-$secondary-color : blue;
+$primary-color : rgb(216, 221, 216);
+$secondary-color : rgb(180, 180, 185);
 $masthead-link-color-hover : blue;
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
