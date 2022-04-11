@@ -3,9 +3,7 @@ title: "AstraZeneca(1)"
 categories:
   - Blog
 tags:
-  - vaccine
   - covid19
-  - health
 ---
 
 Saban hari, tepatnya tanggal 9 Juni saya mendapat vaksin pertama AZ (AstraZeneca). Artikel ini akan sedikit membahas efek dan pengalaman penulis (menyenangkan dan kurang) pasca dan saat vaksinasi. 

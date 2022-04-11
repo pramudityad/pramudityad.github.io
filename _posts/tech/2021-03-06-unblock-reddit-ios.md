@@ -3,7 +3,7 @@ title: "Unblock Reddit IOS"
 categories:
   - Tech
 tags:
-  - nextdns
+  - Tech
   - IOS
 ---
 

@@ -3,7 +3,7 @@ title: "Sumatera Barat"
 categories:
   - Travel
 tags:
-  - Sumatera Barat
+  - Travel
 ---
 ```
 Artikel ini dibuat untuk mengobati rindu akan travelling, semua kalimat dan paragraf murni dari ingatan penulis yang terbatas.

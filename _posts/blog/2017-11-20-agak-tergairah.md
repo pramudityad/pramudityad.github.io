@@ -4,7 +4,7 @@ title: "#Agak Tergairah"
 categories:
   - Blog
 tags:
-  - desire
+  - Blog
 ---
 
 Dari skala satu sampai sepuluh saat ini semangat saya dua puluh satu

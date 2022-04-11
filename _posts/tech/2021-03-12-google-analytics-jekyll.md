@@ -4,7 +4,7 @@ categories:
   - Tech
 tags:
   - google analytics
-  - minimal mistake
+  - Jekyll
 ---
 
 If you own website/blog/portfolio site or anything that can be access in url and you want to track the traffic google this article maybe can help you.

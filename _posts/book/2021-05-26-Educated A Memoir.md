@@ -263,3 +263,12 @@ Note | Location: 5,236
 
 You could call this selfhood many things. Transformation. Metamorphosis. Falsity. Betrayal. I call it an education.
 
+Note:
+
+![](https://d3u8ewz6c11pt5.cloudfront.net/static/kp/2.42.4/b393d742cdd2/img/Note_icon.png)
+
+Would you like to take some notes?
+
+You haven’t created any notes for this book yet. You can add or remove bookmarks, highlights, and notes at any location in a Kindle book.
+
+Sorry, we''ve experienced a problem. Please try again.

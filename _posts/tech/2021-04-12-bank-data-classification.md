@@ -4,7 +4,8 @@ categories:
   - Tech
 tags:
   - analytics
-  - jupyter notebook
+
+  - python 
 ---
 The aim of this projects is to explain how machine learning can help in a bank marketing campaign.The goal of our classifier is to predict using the logistic regression algorithm if a client may subscribe to a fixed term deposit. Often, more than one contact to the same client was required, in order to access if the product (bank term deposit) would be (‘yes’) or not (‘no’) subscribed.
 

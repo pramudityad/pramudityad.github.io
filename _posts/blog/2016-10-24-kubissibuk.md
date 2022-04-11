@@ -4,7 +4,7 @@ title: "Kubis/sibuk"
 categories:
   - Blog
 tags:
-  - relation
+  - Blog
 ---
 
 <figure>

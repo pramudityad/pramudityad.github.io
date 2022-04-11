@@ -4,7 +4,7 @@ title: "Kiaracondong"
 categories:
   - Blog
 tags:
-  - journey
+  - Blog
 ---
 Bandung 24 November, 2017
 

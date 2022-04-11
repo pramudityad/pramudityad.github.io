@@ -4,8 +4,7 @@ title: "Does eating terangbulan makes you happy?"
 categories:
   - Blog
 tags:
-  - food
-  - happiness
+  - Blog
 ---
 
 After almost spend a day with the work and stuff my head spinning and my stomach is empty, i coming down from 2nd floor to dining room where mother wait for prayer time. i look upon table and found terang bulan and ate it, and this moment callback everytime i ate martabak i find happiness or at least i never ate terangbulan and dont feel unhappy after, maybe the scene or something with this food idk.

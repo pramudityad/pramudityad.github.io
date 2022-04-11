@@ -4,7 +4,8 @@ categories:
   - Tech
 tags:
   - analytics
-  - jupyter notebook
+
+  - python
 ---
 ## NYC Property Sales Introduction
 

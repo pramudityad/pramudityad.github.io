@@ -1,5 +1,5 @@
 ---
-title: "Atomic Habits An Easy & Proven Way to Build Good Habits & Break Bad Ones"
+title: "Atomic Habits An Easy and Proven Way to Build Good Habits and Break Bad Ones"
 categories:
   - Books
 tags:
