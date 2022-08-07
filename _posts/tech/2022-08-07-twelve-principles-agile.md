@@ -4,7 +4,6 @@ categories:
 	- Tech
 tags: 
 	- Project Management
-
 ---
 
 Our highest priority is to satisfy the customer  
