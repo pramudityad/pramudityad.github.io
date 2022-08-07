@@ -1,9 +1,9 @@
 ---
-title: "Twelve principles Agile"
+title: Twelve principles Agile
 categories:
 	- Tech
 tags: 
-	- [[Project Management]]
+	- Project Management
 
 ---
 
