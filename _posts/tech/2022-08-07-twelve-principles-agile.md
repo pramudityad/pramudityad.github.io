@@ -1,11 +1,9 @@
 ---
-title: "12 principles Agile"
-created : 2021-06-06 21:45
+title: "Twelve principles Agile"
 categories:
 	- Tech
 tags: 
 	- [[Project Management]]
-link: 
 
 ---
 
