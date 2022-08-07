@@ -1,5 +1,5 @@
 ---
-title: Twelve principles Agile
+title: Twelve Principles Agile
 categories:
 	- Tech
 tags: 
