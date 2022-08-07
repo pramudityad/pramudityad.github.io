@@ -1,9 +1,9 @@
 ---
-title: Twelve Principles Agile
+title: "Twelve Principles Agile"
 categories:
-	- Tech
-tags: 
-	- Project Management
+  - Tech
+tags:
+  - Project Management
 ---
 
 Our highest priority is to satisfy the customer  
