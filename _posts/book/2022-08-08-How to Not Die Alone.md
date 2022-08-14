@@ -1,7 +1,7 @@
 ---
 title: "How to Not Die Alone The Surprising Science That Will Help You Find Love"
 categories:
-  - Book
+  - Books
 tags:
   - Relationship
   - review
