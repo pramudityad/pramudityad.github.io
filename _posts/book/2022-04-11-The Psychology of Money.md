@@ -10,7 +10,7 @@ tags:
 [![](https://m.media-amazon.com/images/I/81eQqmEj65L._SY160.jpg)](https://www.amazon.com/dp/B08FHZ5L47)
 
 ###  What It's About
-_**The Psychology of Money**_ is one of the those books that lays the fundamentals required for investment and saving your money without pushing and punishing with a lot of jargons, technical terms, and read-the-offer-documents-carefully-before-investing kind of mundane warnings (mind you, I am academically qualified and work in Finance and a Legal field). The book speaks in a very clear manner, chapters being crisp and brief, in a language which is assertive with a lot of understanding of the psychology of an individual average investor/human who wants to secure the future.
+_**The Psychology of Money**_ is one of the those books that lays the fundamentals required for investment and saving your money without pushing and punishing with a lot of jargons, technical terms, and read-the-offer-documents-carefully-before-investing kind of mundane warnings. The book speaks in a very clear manner, chapters being crisp and brief, in a language which is assertive with a lot of understanding of the psychology of an individual average investor/human who wants to secure the future.
 
 ###  How I Discovered It
 This book intantly goes to my reading list after I see best book chapter in Amazon 2020 highlight
