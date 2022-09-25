@@ -6,7 +6,6 @@ tags:
   - data-science
   - log system
 ---
-**
 
 Specification document History Log Terminal
 
@@ -133,4 +132,3 @@ Data cleaning involves identifying suspicious data and correcting or removing it
   ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/logsystem/20220915220217.png){: .align-center}
 
   
-**
